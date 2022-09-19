@@ -4,13 +4,13 @@
 ### <div align="center">I'm Ayush, an aspiring full-stack web developer 👨‍💻  |  Coding Enthusiast </> |  Active Learner 🚀</div>  
   
 
-- 🔭 // Love to see codes from the perspective of a compiler or Interpreter.  
+- 🔭 // Currently Learning Advance JS and MERN stack;  
   
 
-- 🌱 Console.log ("Coding excites me the most");  
+- 🌱 Love to collaborate and contribute to open projects;  
   
 
-- 🖥️ System.out.println (" VS code is my type of Netflix and chill ");  
+- 🖥️ Striving everyday to be a proficient full stack web developer;  
   
 
 - ⚡ Love to explore multiple tech fields having codes.  
