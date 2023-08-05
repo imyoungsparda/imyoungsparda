@@ -1,10 +1,10 @@
 
   
 
-### <div align="center">I'm Ayush, an aspiring full-stack web developer 👨‍💻  |  Coding Enthusiast </> |  Active Learner 🚀</div>  
+### <div align="center">I'm Ayush, a frontend web developer 👨‍💻  |  Coding Enthusiast </> |  Active Learner 🚀</div>  
   
 
-- 🔭 // Currently Learning Advance JS and MERN stack;  
+- 🔭 // ReactJS developer;  
   
 
 - 🌱 Love to collaborate and contribute to open projects;  
